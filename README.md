@@ -1,1 +1,1 @@
-# serverless-architecture
+# Serverless-Architecture / Lambda Functions
